@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Roswald01/lc_solns/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Roswald01/lc_solns/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Roswald01/lc_solns/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Roswald01/lc_solns/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Roswald01/lc_solns/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

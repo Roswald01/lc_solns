@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Roswald01/lc_solns/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Roswald01/lc_solns/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Roswald01/lc_solns/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Roswald01/lc_solns/tree/master/0344-reverse-string) |
 ## Divide and Conquer
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Roswald01/lc_solns/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Roswald01/lc_solns/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Roswald01/lc_solns/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
